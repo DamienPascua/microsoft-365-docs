@@ -84,7 +84,7 @@ After the feature has been enabled, you can use Content Search in the Security &
 3. Create the keyword query and add conditions to the search query if necessary. To only search for Team chats data, you can add the following query in the **Keywords** box:
 
     ```text
-    kind:im
+    kind:microsoftteams
     ```
 
 4. At this point, you can choose one of the following options under **Locations**:
